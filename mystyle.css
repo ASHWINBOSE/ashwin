@@ -1,0 +1,19 @@
+h1{
+    color:rgb(243, 239, 247);
+    font-style: normal;
+    font-size: xx-large;
+    text-align: center;
+}
+body{
+    font-size: large;
+    color: cornsilk;
+    background-image:url("download.jpg");
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 200px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
